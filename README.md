@@ -1,4 +1,4 @@
-# Introduccion-Whisper-tratado-correccion-analisis
+# Introducción a Whisper, tratado, corrección y análisis de textos
 * Script de python que transcribe un videdo de youtube.
 * Corrige la ortografía del texto generado.
 * Limpia el texto quitando caracteres inecesarios.
